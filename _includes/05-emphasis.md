@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+He is *smart*
+She is _funny_
+He is *smart* and she is _funny_
